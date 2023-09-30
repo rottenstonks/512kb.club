@@ -1118,6 +1118,11 @@
   size: 237
   last_checked: 2022-05-15
 
+- domain: fem.lol
+  url: https://fem.lol/
+  size: 302
+  last_checked: 2023-09-22
+
 - domain: ferib.dev
   url: https://ferib.dev/
   size: 197
@@ -1318,6 +1323,11 @@
   size: 435
   last_checked: 2023-02-18
 
+- domain: hendrikharlichs.de
+  url: https://hendrikharlichs.de/
+  size: 203
+  last_checked: 2023-09-26
+
 - domain: her.esy.fun
   url: https://her.esy.fun/
   size: 24.3
@@ -1443,6 +1453,11 @@
   size: 191
   last_checked: 2023-07-11
 
+- domain: jackiechalarca.org
+  url: https://jackiechalarca.org/
+  size: 18.2
+  last_checked: 2023-09-27
+
 - domain: jacksonchen666.com
   url: https://jacksonchen666.com/
   size: 11.0
@@ -1455,8 +1470,8 @@
 
 - domain: jakobbouchard.dev
   url: https://jakobbouchard.dev/
-  size: 65.5
-  last_checked: 2022-05-06
+  size: 263
+  last_checked: 2023-09-26
 
 - domain: jakobmaier.at
   url: https://www.jakobmaier.at
@@ -1621,6 +1636,11 @@
   url: https://www.karl.berlin/
   size: 3.0
   last_checked: 2022-04-26
+
+- domain: kaukokaipuu.xyz
+  url: https://www.kaukokaipuu.xyz/
+  size: 89.0
+  last_checked: 2023-09-24
 
 - domain: kealanparr.com
   url: https://kealanparr.com/
@@ -2016,7 +2036,7 @@
   url: https://nest.jakl.one/
   size: 11.7
   last_checked: 2022-05-15
-  
+
 - domain: news.itsjake.me
   url: https://news.itsjake.me/
   size: 77.2
@@ -3091,7 +3111,6 @@
   url: https://wayfarers.space/
   size: 364
   last_checked: 2023-04-19
-
 
 - domain: webmusic.pages.dev
   url: https://webmusic.pages.dev/
